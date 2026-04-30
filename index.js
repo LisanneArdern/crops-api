@@ -1,5 +1,5 @@
 const express = require("express");
-const crops = require("./crops.json");
+const db = require("./db");
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -17,11 +17,13 @@ app.get("/", (req, res) => {
 });
 
 app.get("/api/crops", (req, res) => {
+  const crops = db.prepare("SELECT * FROM crops ORDER BY name").all();
+
   res.json(crops);
 });
 
 app.get("/api/crops/:id", (req, res) => {
-  const crop = crops.find((item) => item.id === req.params.id);
+  const crop = db.prepare("SELECT * FROM crops WHERE id = ?").get(req.params.id);
 
   if (!crop) {
     return res.status(404).json({ message: "Crop not found" });

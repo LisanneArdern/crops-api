@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node seed.js",
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
@@ -12,6 +13,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "better-sqlite3": "^12.9.0",
     "express": "^5.2.1"
   },
   "devDependencies": {
