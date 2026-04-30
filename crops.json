@@ -4,8 +4,8 @@
     "name": "Basil",
     "botanicalName": "Ocimum basilicum",
     "sun": "Full sun",
-    "spread": "20-30 cm",
-    "rowSpace": "30 cm",
+    "spread_cm": 30,
+    "row_spacing_cm": 30,
     "description": "Basil is a warm-season herb that grows best in rich, well-drained soil. Keep the soil evenly moist and harvest leaves regularly to encourage bushy growth.",
     "photo": "https://images.unsplash.com/photo-1618375569909-3c8616cf7733"
   },
@@ -14,8 +14,8 @@
     "name": "Tomato",
     "botanicalName": "Solanum lycopersicum",
     "sun": "Full sun",
-    "spread": "45-90 cm",
-    "rowSpace": "60-90 cm",
+    "spread_cm": 60,
+    "row_spacing_cm": 80,
     "description": "Tomatoes need warmth, steady watering, and support such as stakes or cages. Plant them deeply and keep leaves dry where possible to reduce disease.",
     "photo": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea"
   },
@@ -24,8 +24,8 @@
     "name": "Lettuce",
     "botanicalName": "Lactuca sativa",
     "sun": "Full sun to partial shade",
-    "spread": "20-30 cm",
-    "rowSpace": "30 cm",
+    "spread_cm": 25,
+    "row_spacing_cm": 30,
     "description": "Lettuce grows quickly in cool weather and prefers consistently moist soil. Harvest outer leaves first or cut whole heads when mature.",
     "photo": "https://images.unsplash.com/photo-1622206151226-18ca2c9ab4a1"
   }
