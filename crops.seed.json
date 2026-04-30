@@ -1,0 +1,152 @@
+[
+  {
+    "id": "basil",
+    "name": "Basil",
+    "botanical_name": "Ocimum basilicum",
+    "sun": "Full sun",
+    "spread_cm": 30,
+    "row_spacing_cm": 30,
+    "description": "Basil is a warm-season herb that grows best in rich, well-drained soil. Keep the soil evenly moist and harvest leaves regularly to encourage bushy growth.",
+    "photo": "https://images.unsplash.com/photo-1618375569909-3c8616cf7733"
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "botanical_name": "Solanum lycopersicum",
+    "sun": "Full sun",
+    "spread_cm": 60,
+    "row_spacing_cm": 80,
+    "description": "Tomatoes need warmth, steady watering, and support such as stakes or cages. Plant them deeply and keep leaves dry where possible to reduce disease.",
+    "photo": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea"
+  },
+  {
+    "id": "lettuce",
+    "name": "Lettuce",
+    "botanical_name": "Lactuca sativa",
+    "sun": "Full sun to partial shade",
+    "spread_cm": 25,
+    "row_spacing_cm": 30,
+    "description": "Lettuce grows quickly in cool weather and prefers consistently moist soil. Harvest outer leaves first or cut whole heads when mature.",
+    "photo": "https://images.unsplash.com/photo-1622206151226-18ca2c9ab4a1"
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot",
+    "botanical_name": "Daucus carota subsp. sativus",
+    "sun": "Full sun",
+    "spread_cm": 8,
+    "row_spacing_cm": 30,
+    "description": "Carrots prefer loose, stone-free soil so the roots can grow straight. Keep the seedbed evenly moist until germination and thin seedlings early.",
+    "photo": "https://images.unsplash.com/photo-1447175008436-054170c2e979"
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "botanical_name": "Cucumis sativus",
+    "sun": "Full sun",
+    "spread_cm": 60,
+    "row_spacing_cm": 100,
+    "description": "Cucumbers grow best in warm soil with steady moisture. Give vining types a trellis to save space and improve airflow.",
+    "photo": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e"
+  },
+  {
+    "id": "zucchini",
+    "name": "Zucchini",
+    "botanical_name": "Cucurbita pepo",
+    "sun": "Full sun",
+    "spread_cm": 90,
+    "row_spacing_cm": 120,
+    "description": "Zucchini plants need plenty of space, compost-rich soil, and regular watering. Harvest fruits while they are still tender for the best flavor.",
+    "photo": "https://images.unsplash.com/photo-1590165482129-1b8b27698780"
+  },
+  {
+    "id": "bell-pepper",
+    "name": "Bell Pepper",
+    "botanical_name": "Capsicum annuum",
+    "sun": "Full sun",
+    "spread_cm": 45,
+    "row_spacing_cm": 60,
+    "description": "Bell peppers like warm conditions, fertile soil, and consistent watering. Stake plants if heavy fruits start to bend the stems.",
+    "photo": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "botanical_name": "Spinacia oleracea",
+    "sun": "Full sun to partial shade",
+    "spread_cm": 15,
+    "row_spacing_cm": 30,
+    "description": "Spinach is a cool-season leafy green that bolts quickly in heat. Sow in spring or autumn and keep the soil consistently moist.",
+    "photo": "https://images.unsplash.com/photo-1576045057995-568f588f82fb"
+  },
+  {
+    "id": "kale",
+    "name": "Kale",
+    "botanical_name": "Brassica oleracea var. sabellica",
+    "sun": "Full sun to partial shade",
+    "spread_cm": 45,
+    "row_spacing_cm": 60,
+    "description": "Kale is hardy and productive in cool weather. Harvest outer leaves regularly so the plant continues producing from the center.",
+    "photo": "https://images.unsplash.com/photo-1524179091875-bf99a9a6af57"
+  },
+  {
+    "id": "radish",
+    "name": "Radish",
+    "botanical_name": "Raphanus sativus",
+    "sun": "Full sun",
+    "spread_cm": 5,
+    "row_spacing_cm": 20,
+    "description": "Radishes grow very quickly and are best sown directly. Keep them evenly watered to avoid tough or overly spicy roots.",
+    "photo": "https://images.unsplash.com/photo-1593027574449-6a939f2712c0"
+  },
+  {
+    "id": "parsley",
+    "name": "Parsley",
+    "botanical_name": "Petroselinum crispum",
+    "sun": "Full sun to partial shade",
+    "spread_cm": 25,
+    "row_spacing_cm": 30,
+    "description": "Parsley is a biennial herb that prefers moist, fertile soil. Germination can be slow, so keep seeds consistently damp.",
+    "photo": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7"
+  },
+  {
+    "id": "cilantro",
+    "name": "Cilantro",
+    "botanical_name": "Coriandrum sativum",
+    "sun": "Full sun to partial shade",
+    "spread_cm": 20,
+    "row_spacing_cm": 30,
+    "description": "Cilantro grows best in cool weather and can bolt in heat. Sow small batches often for a steady supply of fresh leaves.",
+    "photo": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716"
+  },
+  {
+    "id": "rosemary",
+    "name": "Rosemary",
+    "botanical_name": "Salvia rosmarinus",
+    "sun": "Full sun",
+    "spread_cm": 60,
+    "row_spacing_cm": 90,
+    "description": "Rosemary is a woody Mediterranean herb that prefers full sun and sharply drained soil. Avoid overwatering once established.",
+    "photo": "https://images.unsplash.com/photo-1515586000433-45406d8e6662"
+  },
+  {
+    "id": "thyme",
+    "name": "Thyme",
+    "botanical_name": "Thymus vulgaris",
+    "sun": "Full sun",
+    "spread_cm": 30,
+    "row_spacing_cm": 30,
+    "description": "Thyme is a compact herb for sunny, dry spots. It performs best in well-drained soil and needs little fertilizer.",
+    "photo": "https://images.unsplash.com/photo-1601985705806-5b9a71f6004f"
+  },
+  {
+    "id": "strawberry",
+    "name": "Strawberry",
+    "botanical_name": "Fragaria x ananassa",
+    "sun": "Full sun",
+    "spread_cm": 40,
+    "row_spacing_cm": 75,
+    "description": "Strawberries need fertile, well-drained soil and full sun for best fruiting. Mulch around plants to keep berries clean and conserve moisture.",
+    "photo": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6"
+  }
+]
