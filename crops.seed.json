@@ -148,5 +148,155 @@
     "row_spacing_cm": 75,
     "description": "Strawberries need fertile, well-drained soil and full sun for best fruiting. Mulch around plants to keep berries clean and conserve moisture.",
     "photo": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6"
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "botanical_name": "Solanum tuberosum",
+    "sun": "Full sun",
+    "spread_cm": 45,
+    "row_spacing_cm": 75,
+    "description": "Potatoes prefer deep, fertile soil and regular hilling as plants grow to protect tubers from light. Avoid wet leaves where possible to limit blight.",
+    "photo": "https://images.unsplash.com/photo-1518977822534-7049a61ee0c2"
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "botanical_name": "Allium cepa",
+    "sun": "Full sun",
+    "spread_cm": 15,
+    "row_spacing_cm": 30,
+    "description": "Onions need a long season, steady moisture while bulbing, and weed-free beds. Stop heavy watering as bulbs mature and tops begin to fall.",
+    "photo": "https://images.unsplash.com/photo-1518977676601-b53f82aba655"
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "botanical_name": "Allium sativum",
+    "sun": "Full sun",
+    "spread_cm": 15,
+    "row_spacing_cm": 30,
+    "description": "Plant garlic cloves in autumn in cold climates or early winter in mild areas. It likes rich, well-drained soil and consistent moisture in spring.",
+    "photo": "https://images.unsplash.com/photo-1546549032-9571cd6cac27"
+  },
+  {
+    "id": "green-bean",
+    "name": "Green Bean",
+    "botanical_name": "Phaseolus vulgaris",
+    "sun": "Full sun",
+    "spread_cm": 40,
+    "row_spacing_cm": 50,
+    "description": "Bush beans are compact; pole beans need a trellis. Pick pods often to keep plants productive and avoid stringy or oversized beans.",
+    "photo": "https://images.unsplash.com/photo-1592841200221-b7aede4e5c5c"
+  },
+  {
+    "id": "pea",
+    "name": "Pea",
+    "botanical_name": "Pisum sativum",
+    "sun": "Full sun",
+    "spread_cm": 20,
+    "row_spacing_cm": 45,
+    "description": "Peas are a cool-season crop: sow early and provide support for tall varieties. Keep soil cool and moist for steady pod production.",
+    "photo": "https://images.unsplash.com/photo-1553531384-cc64acfd9fa1"
+  },
+  {
+    "id": "broccoli",
+    "name": "Broccoli",
+    "botanical_name": "Brassica oleracea var. italica",
+    "sun": "Full sun",
+    "spread_cm": 50,
+    "row_spacing_cm": 60,
+    "description": "Broccoli likes rich soil and steady water. Harvest the main head before florets loosen, then smaller side shoots often follow.",
+    "photo": "https://images.unsplash.com/photo-1584270354949-c26b0d5b4a0c"
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "botanical_name": "Brassica oleracea var. capitata",
+    "sun": "Full sun",
+    "spread_cm": 45,
+    "row_spacing_cm": 60,
+    "description": "Cabbage needs consistent moisture and fertile soil for firm heads. Watch for caterpillars and use netting or timely checks in peak season.",
+    "photo": "https://images.unsplash.com/photo-1628773822500-88c5e7d6d8d4"
+  },
+  {
+    "id": "beet",
+    "name": "Beet",
+    "botanical_name": "Beta vulgaris",
+    "sun": "Full sun",
+    "spread_cm": 10,
+    "row_spacing_cm": 30,
+    "description": "Beetroot likes loose soil free of stones. Thin seedlings so roots have room, and harvest when roots are golf-ball to tennis-ball size for tenderness.",
+    "photo": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37"
+  },
+  {
+    "id": "sweet-corn",
+    "name": "Sweet Corn",
+    "botanical_name": "Zea mays convar. saccharata",
+    "sun": "Full sun",
+    "spread_cm": 30,
+    "row_spacing_cm": 75,
+    "description": "Corn is wind-pollinated, so plant in blocks rather than single rows. Keep soil fertile and water well when tassels and silks appear.",
+    "photo": "https://images.unsplash.com/photo-1500937386664-56d4016ff8a2"
+  },
+  {
+    "id": "swiss-chard",
+    "name": "Swiss Chard",
+    "botanical_name": "Beta vulgaris subsp. vulgaris",
+    "sun": "Full sun to partial shade",
+    "spread_cm": 35,
+    "row_spacing_cm": 45,
+    "description": "Chard is heat-tolerant compared with many greens. Cut outer stalks regularly and it will keep producing from the crown.",
+    "photo": "https://images.unsplash.com/photo-1615484477778-ca3de94416c2"
+  },
+  {
+    "id": "eggplant",
+    "name": "Eggplant",
+    "botanical_name": "Solanum melongena",
+    "sun": "Full sun",
+    "spread_cm": 50,
+    "row_spacing_cm": 75,
+    "description": "Aubergines need warmth—start indoors in short seasons. Stake stems when heavy fruits form and mulch to keep roots evenly cool and moist.",
+    "photo": "https://images.unsplash.com/photo-1633342563722-bdfa4162bcde"
+  },
+  {
+    "id": "pumpkin",
+    "name": "Pumpkin",
+    "botanical_name": "Cucurbita pepo",
+    "sun": "Full sun",
+    "spread_cm": 180,
+    "row_spacing_cm": 200,
+    "description": "Pumpkins sprawl widely: give vines space or trim tips to limit size once a few fruits are set. Harvest when skins are hard and stems corky.",
+    "photo": "https://images.unsplash.com/photo-1506917724557-e23a7e32e160"
+  },
+  {
+    "id": "mint",
+    "name": "Mint",
+    "botanical_name": "Mentha",
+    "sun": "Full sun to partial shade",
+    "spread_cm": 40,
+    "row_spacing_cm": 45,
+    "description": "Mint spreads aggressively by runners; grow in pots or bordered beds. It prefers moist soil and benefits from frequent picking.",
+    "photo": "https://images.unsplash.com/photo-1629156216064-b4b45b0544e9"
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano",
+    "botanical_name": "Origanum vulgare",
+    "sun": "Full sun",
+    "spread_cm": 35,
+    "row_spacing_cm": 40,
+    "description": "Oregano is drought-tolerant once established and likes lean, well-drained soil. Cut back flowering stems if you want the best leaf flavor.",
+    "photo": "https://images.unsplash.com/photo-1600788886242-5c96aabe3757"
+  },
+  {
+    "id": "celery",
+    "name": "Celery",
+    "botanical_name": "Apium graveolens",
+    "sun": "Full sun to partial shade",
+    "spread_cm": 25,
+    "row_spacing_cm": 40,
+    "description": "Celery needs steady water and rich soil to avoid stringy stalks. Blanch stems by wrapping or hill soil if you prefer milder flavor.",
+    "photo": "https://images.unsplash.com/photo-1587049352846-4a222e784d38"
   }
 ]
