@@ -7,7 +7,7 @@
     "spread_cm": 30,
     "row_spacing_cm": 30,
     "description": "Basil is a warm-season herb that grows best in rich, well-drained soil. Keep the soil evenly moist and harvest leaves regularly to encourage bushy growth.",
-    "photo": "https://images.unsplash.com/photo-1618375569909-3c8616cf7733"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Starr-090707-2397-Ocimum_basilicum-in_vegetable_garden-Olinda-Maui_%2824851056122%29.jpg"
   },
   {
     "id": "tomato",
@@ -17,7 +17,7 @@
     "spread_cm": 60,
     "row_spacing_cm": 80,
     "description": "Tomatoes need warmth, steady watering, and support such as stakes or cages. Plant them deeply and keep leaves dry where possible to reduce disease.",
-    "photo": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg"
   },
   {
     "id": "lettuce",
@@ -27,7 +27,7 @@
     "spread_cm": 25,
     "row_spacing_cm": 30,
     "description": "Lettuce grows quickly in cool weather and prefers consistently moist soil. Harvest outer leaves first or cut whole heads when mature.",
-    "photo": "https://images.unsplash.com/photo-1622206151226-18ca2c9ab4a1"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Romaine_lettuce.jpg"
   },
   {
     "id": "carrot",
@@ -37,7 +37,7 @@
     "spread_cm": 8,
     "row_spacing_cm": 30,
     "description": "Carrots prefer loose, stone-free soil so the roots can grow straight. Keep the seedbed evenly moist until germination and thin seedlings early.",
-    "photo": "https://images.unsplash.com/photo-1447175008436-054170c2e979"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Carrots_of_many_colors.jpg"
   },
   {
     "id": "cucumber",
@@ -47,7 +47,7 @@
     "spread_cm": 60,
     "row_spacing_cm": 100,
     "description": "Cucumbers grow best in warm soil with steady moisture. Give vining types a trellis to save space and improve airflow.",
-    "photo": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ryerson_Market_cucumbers_on_sale.jpg"
   },
   {
     "id": "zucchini",
@@ -57,7 +57,7 @@
     "spread_cm": 90,
     "row_spacing_cm": 120,
     "description": "Zucchini plants need plenty of space, compost-rich soil, and regular watering. Harvest fruits while they are still tender for the best flavor.",
-    "photo": "https://images.unsplash.com/photo-1590165482129-1b8b27698780"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Zucchini_in_basket_2021_G1.jpg"
   },
   {
     "id": "bell-pepper",
@@ -67,7 +67,7 @@
     "spread_cm": 45,
     "row_spacing_cm": 60,
     "description": "Bell peppers like warm conditions, fertile soil, and consistent watering. Stake plants if heavy fruits start to bend the stems.",
-    "photo": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bell_peppers_2020_G2.jpg"
   },
   {
     "id": "spinach",
@@ -77,7 +77,7 @@
     "spread_cm": 15,
     "row_spacing_cm": 30,
     "description": "Spinach is a cool-season leafy green that bolts quickly in heat. Sow in spring or autumn and keep the soil consistently moist.",
-    "photo": "https://images.unsplash.com/photo-1576045057995-568f588f82fb"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Spinach_leafs.jpg"
   },
   {
     "id": "kale",
@@ -87,7 +87,7 @@
     "spread_cm": 45,
     "row_spacing_cm": 60,
     "description": "Kale is hardy and productive in cool weather. Harvest outer leaves regularly so the plant continues producing from the center.",
-    "photo": "https://images.unsplash.com/photo-1524179091875-bf99a9a6af57"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Kale-Bundle.jpg"
   },
   {
     "id": "radish",
@@ -97,7 +97,7 @@
     "spread_cm": 5,
     "row_spacing_cm": 20,
     "description": "Radishes grow very quickly and are best sown directly. Keep them evenly watered to avoid tough or overly spicy roots.",
-    "photo": "https://images.unsplash.com/photo-1593027574449-6a939f2712c0"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Radish_3371103037_4ab07db0bf_o.jpg"
   },
   {
     "id": "parsley",
@@ -107,7 +107,7 @@
     "spread_cm": 25,
     "row_spacing_cm": 30,
     "description": "Parsley is a biennial herb that prefers moist, fertile soil. Germination can be slow, so keep seeds consistently damp.",
-    "photo": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Parsley-Petroselinum_43011-480x360_%284811468092%29.jpg"
   },
   {
     "id": "cilantro",
@@ -117,7 +117,7 @@
     "spread_cm": 20,
     "row_spacing_cm": 30,
     "description": "Cilantro grows best in cool weather and can bolt in heat. Sow small batches often for a steady supply of fresh leaves.",
-    "photo": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Coriander_in_packages_in_a_supermarket_in_Japan_-_March_18_2021.jpeg"
   },
   {
     "id": "rosemary",
@@ -127,7 +127,7 @@
     "spread_cm": 60,
     "row_spacing_cm": 90,
     "description": "Rosemary is a woody Mediterranean herb that prefers full sun and sharply drained soil. Avoid overwatering once established.",
-    "photo": "https://images.unsplash.com/photo-1515586000433-45406d8e6662"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosmarinus_officinalis_13zz.jpg?width=800"
   },
   {
     "id": "thyme",
@@ -137,7 +137,7 @@
     "spread_cm": 30,
     "row_spacing_cm": 30,
     "description": "Thyme is a compact herb for sunny, dry spots. It performs best in well-drained soil and needs little fertilizer.",
-    "photo": "https://images.unsplash.com/photo-1601985705806-5b9a71f6004f"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Thymus_vulgaris_4zz.jpg?width=800"
   },
   {
     "id": "strawberry",
@@ -147,7 +147,7 @@
     "spread_cm": 40,
     "row_spacing_cm": 75,
     "description": "Strawberries need fertile, well-drained soil and full sun for best fruiting. Mulch around plants to keep berries clean and conserve moisture.",
-    "photo": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg?width=800"
   },
   {
     "id": "potato",
@@ -157,7 +157,7 @@
     "spread_cm": 45,
     "row_spacing_cm": 75,
     "description": "Potatoes prefer deep, fertile soil and regular hilling as plants grow to protect tubers from light. Avoid wet leaves where possible to limit blight.",
-    "photo": "https://images.unsplash.com/photo-1518977822534-7049a61ee0c2"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Potato_potato.jpg"
   },
   {
     "id": "onion",
@@ -167,7 +167,7 @@
     "spread_cm": 15,
     "row_spacing_cm": 30,
     "description": "Onions need a long season, steady moisture while bulbing, and weed-free beds. Stop heavy watering as bulbs mature and tops begin to fall.",
-    "photo": "https://images.unsplash.com/photo-1518977676601-b53f82aba655"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Mixed_onions.jpg"
   },
   {
     "id": "garlic",
@@ -177,7 +177,7 @@
     "spread_cm": 15,
     "row_spacing_cm": 30,
     "description": "Plant garlic cloves in autumn in cold climates or early winter in mild areas. It likes rich, well-drained soil and consistent moisture in spring.",
-    "photo": "https://images.unsplash.com/photo-1546549032-9571cd6cac27"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Garlic_bulbs_and_cloves.jpg?width=800"
   },
   {
     "id": "green-bean",
@@ -187,7 +187,7 @@
     "spread_cm": 40,
     "row_spacing_cm": 50,
     "description": "Bush beans are compact; pole beans need a trellis. Pick pods often to keep plants productive and avoid stringy or oversized beans.",
-    "photo": "https://images.unsplash.com/photo-1592841200221-b7aede4e5c5c"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Four_Different_Varieties_of_Green_Beans_%28Phaseolus_vulgaris%29.jpg"
   },
   {
     "id": "pea",
@@ -197,7 +197,7 @@
     "spread_cm": 20,
     "row_spacing_cm": 45,
     "description": "Peas are a cool-season crop: sow early and provide support for tall varieties. Keep soil cool and moist for steady pod production.",
-    "photo": "https://images.unsplash.com/photo-1553531384-cc64acfd9fa1"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Peas_in_pods_-_Studio.jpg?width=800"
   },
   {
     "id": "broccoli",
@@ -207,7 +207,7 @@
     "spread_cm": 50,
     "row_spacing_cm": 60,
     "description": "Broccoli likes rich soil and steady water. Harvest the main head before florets loosen, then smaller side shoots often follow.",
-    "photo": "https://images.unsplash.com/photo-1584270354949-c26b0d5b4a0c"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Broccoli_growing.jpg"
   },
   {
     "id": "cabbage",
@@ -217,7 +217,7 @@
     "spread_cm": 45,
     "row_spacing_cm": 60,
     "description": "Cabbage needs consistent moisture and fertile soil for firm heads. Watch for caterpillars and use netting or timely checks in peak season.",
-    "photo": "https://images.unsplash.com/photo-1628773822500-88c5e7d6d8d4"
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Brassica_oleracea_var._capitata_%284170722993%29.jpg"
   },
   {
     "id": "beet",
@@ -227,7 +227,7 @@
     "spread_cm": 10,
     "row_spacing_cm": 30,
     "description": "Beetroot likes loose soil free of stones. Thin seedlings so roots have room, and harvest when roots are golf-ball to tennis-ball size for tenderness.",
-    "photo": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Beet_root_before_bolting.jpg?width=800"
   },
   {
     "id": "sweet-corn",
@@ -237,7 +237,7 @@
     "spread_cm": 30,
     "row_spacing_cm": 75,
     "description": "Corn is wind-pollinated, so plant in blocks rather than single rows. Keep soil fertile and water well when tassels and silks appear.",
-    "photo": "https://images.unsplash.com/photo-1500937386664-56d4016ff8a2"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Iowa_Sweet_Corn.png?width=800"
   },
   {
     "id": "swiss-chard",
@@ -247,7 +247,7 @@
     "spread_cm": 35,
     "row_spacing_cm": 45,
     "description": "Chard is heat-tolerant compared with many greens. Cut outer stalks regularly and it will keep producing from the crown.",
-    "photo": "https://images.unsplash.com/photo-1615484477778-ca3de94416c2"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chard_(Beta_vulgaris_var_cicla).jpg?width=800"
   },
   {
     "id": "eggplant",
@@ -257,7 +257,7 @@
     "spread_cm": 50,
     "row_spacing_cm": 75,
     "description": "Aubergines need warmth—start indoors in short seasons. Stake stems when heavy fruits form and mulch to keep roots evenly cool and moist.",
-    "photo": "https://images.unsplash.com/photo-1633342563722-bdfa4162bcde"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Eggplant_aubergine_brinjal.jpg?width=800"
   },
   {
     "id": "pumpkin",
@@ -267,7 +267,7 @@
     "spread_cm": 180,
     "row_spacing_cm": 200,
     "description": "Pumpkins sprawl widely: give vines space or trim tips to limit size once a few fruits are set. Harvest when skins are hard and stems corky.",
-    "photo": "https://images.unsplash.com/photo-1506917724557-e23a7e32e160"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cucurbita_pepo_001.JPG?width=800"
   },
   {
     "id": "mint",
@@ -277,7 +277,7 @@
     "spread_cm": 40,
     "row_spacing_cm": 45,
     "description": "Mint spreads aggressively by runners; grow in pots or bordered beds. It prefers moist soil and benefits from frequent picking.",
-    "photo": "https://images.unsplash.com/photo-1629156216064-b4b45b0544e9"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mentha_spicata_var._crispa_002.JPG?width=800"
   },
   {
     "id": "oregano",
@@ -287,7 +287,7 @@
     "spread_cm": 35,
     "row_spacing_cm": 40,
     "description": "Oregano is drought-tolerant once established and likes lean, well-drained soil. Cut back flowering stems if you want the best leaf flavor.",
-    "photo": "https://images.unsplash.com/photo-1600788886242-5c96aabe3757"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Oregano_1.jpg?width=800"
   },
   {
     "id": "celery",
@@ -297,6 +297,6 @@
     "spread_cm": 25,
     "row_spacing_cm": 40,
     "description": "Celery needs steady water and rich soil to avoid stringy stalks. Blanch stems by wrapping or hill soil if you prefer milder flavor.",
-    "photo": "https://images.unsplash.com/photo-1587049352846-4a222e784d38"
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Celery.jpg?width=800"
   }
 ]
